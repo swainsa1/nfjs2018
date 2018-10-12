@@ -15,13 +15,23 @@ More stratergic way to architectural concerns
 
 Neal ford 
 
-Legal Fitness function - CHeckin all the lic files hashed everytime changes update it 
+Legal Fitness function - Checkin all the lic files hashed everytime changes update it 
 
 Refatrroing function 
 
 Ranch by abstraction - Design Pattern 
 
 Domain centric architecture 
+
+VFF Pattern to decouple things 
+
+Micro frontent - is it the new buzz word
+
+Deployment pipe line to deploy ff - Fitness function 
+
+Move Fast and Fix things 
+
+evolutionarchitecture.com
 
 
 
